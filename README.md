@@ -1,16 +1,14 @@
 
-<img src="https://github.com/Edwin-dl-Cruz/Script-Sheet-Requisicion/assets/90342140/5249be18-221f-4220-b503-150264d1e671" alt="Captura de Pantalla 2024-03-19 a la(s) 10 34 32" width="70%">
-
-<br>
+<img src="https://github.com/Edwin-dl-Cruz/Script-Sheet-Requisicion/assets/90342140/5249be18-221f-4220-b503-150264d1e671" alt="Captura de Pantalla 2024-03-19 a la(s) 10 34 32" width="70%"><br><br>
 
 Script para Enviar Correo con Última Fila de Respuestas del Formulario
 Este script de Google Apps Script se utiliza en una hoja de cálculo de Google vinculada a un formulario de Google (FormsApp). Se ejecuta cuando se recibe una nueva respuesta en la hoja de cálculo y realiza las siguientes tareas:
-<br>
+<br><br>
 
 1.- Formatea los datos de la última fila de la hoja de cálculo en una tabla HTML.
 
 <img src="https://github.com/Edwin-dl-Cruz/Script-Sheet-Requisicion/assets/90342140/65131ec9-d887-4132-bc92-f9cfdacc4f32" alt="Captura de Pantalla 2024-03-19 a la(s) 10 43 21" width="70%">
-<br>
+<br><br>
 
 2.- Crea un archivo PDF a partir de la tabla HTML formateada.
 
