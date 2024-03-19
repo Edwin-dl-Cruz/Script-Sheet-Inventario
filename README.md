@@ -5,7 +5,11 @@ Este script de Google Apps Script se utiliza en una hoja de cálculo de Google v
 
 1.- Formatea los datos de la última fila de la hoja de cálculo en una tabla HTML.
 
+![Captura de Pantalla 2024-03-19 a la(s) 10 43 21](https://github.com/Edwin-dl-Cruz/Script-Sheet-Requisicion/assets/90342140/65131ec9-d887-4132-bc92-f9cfdacc4f32)
+
 2.- Crea un archivo PDF a partir de la tabla HTML formateada.
+
+![Captura de Pantalla 2024-03-19 a la(s) 10 46 34](https://github.com/Edwin-dl-Cruz/Script-Sheet-Requisicion/assets/90342140/459f179e-e775-43dc-a52b-4ff0777a3fb8)
 
 3.- Envía un correo electrónico con el archivo PDF adjunto al destinatario especificado.
 
