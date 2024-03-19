@@ -1,7 +1,7 @@
-<h1>Script para Enviar Correo con Última Fila de Respuestas del Formulario</h1><br><br>
+<h1>Script para Enviar Correo con Última Fila de Respuestas del Formulario</h1><br>
 
 El sistema es una solución desarrollada en Google Apps Script que automatiza el procesamiento de respuestas recibidas en un formulario de Google (FormsApp). A continuación, se proporciona una descripción detallada de cómo funciona el sistema y los componentes involucrados:
-<br><br>
+<br>
 
 <h2>Componentes del Sistema:</h2>
 1.- Formulario de Google (FormsApp): 
@@ -22,6 +22,7 @@ Es un entorno de desarrollo basado en JavaScript que permite crear scripts para 
 <br><br>
 
 <h2>Funcionamiento del Sistema:</h2>
+
 1.- Recepción de Respuestas:
 
 Cuando un usuario envía una respuesta al formulario, esta respuesta se registra como una nueva fila en la hoja de cálculo de Google vinculada al formulario.
@@ -40,6 +41,7 @@ Una vez que los datos están formateados en la tabla HTML, el script envía un c
 
 
 <h2>Características Adicionales:</h2>
+
 1.- Personalización del Correo Electrónico:
 
 El script permite personalizar el contenido del correo electrónico, incluido el asunto, el destinatario y el formato del cuerpo del correo electrónico.
